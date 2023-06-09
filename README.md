@@ -3,7 +3,7 @@ This is a Panfrost Driver to be used on box86/64/exagear it requires a 5.10+ ker
 commands 
 
 apt update && apt upgrade && apt install git &&
-cd / && cd sdcard && wget  
+cd / && cd sdcard && wget https://github.com/Matews371/Panfrost-Android/raw/main/Panfrost.zip
 
 
 enter your File Manager and at the beginning sdcard will be the zipped file Extract File 

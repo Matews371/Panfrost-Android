@@ -6,4 +6,4 @@ commands
 cd / && cd sdcard && git clone  https://github.com/Matews371/Panfrost-Android/blob/main/Panfrost.zip 
 
 
-enter your File Manager and at the beginning sdcard will be the zipped file
+enter your File Manager and at the beginning sdcard will be the zipped file Extract File 
